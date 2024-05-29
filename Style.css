@@ -1,0 +1,40 @@
+body {  
+    background-color: rgb(108, 220, 233);
+}
+h1{
+    color: rgba(140, 241, 39, 0.847);
+    text-decoration:cornflowerblue wavy underline;
+    font-family: cursive;
+    font-size: 45px;
+}
+ hr {
+    color:chocolate;
+}
+.myclass{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif ;
+}
+big{
+    color: black;
+}
+#one{
+    font-family: georgia;
+}
+.gameclass{
+    font-family: monospace;
+}
+.hrclass{
+    color: chocolate;
+}
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+#two{
+    text-decoration:underline dotted lawngreen ;
+}
+.three{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.headingclass{
+    font-size: 40px;
+}
